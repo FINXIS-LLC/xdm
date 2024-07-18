@@ -1,3 +1,3 @@
 # Extended Domain Model (XDM)
 
-The XDM is an extended domain model based on the FINOS CDM with extensions for a greater breath of financial products and services.
+The XDM is an extended domain model for financial products based on the FINOS Common Domain Model with extensions for greater breath of financial products and services.
